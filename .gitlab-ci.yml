@@ -5,7 +5,7 @@ stages:
 
 variables:
   PUBLIC_REGISTRY_HOST: docker.io
-  PUBLIC_REGISTRY_OWNER: scherkesov1006
+  PUBLIC_REGISTRY_OWNER: mchuprin135246
   PUBLIC_REGISTRY_APP_NAME: module-39
 
 build_app:
